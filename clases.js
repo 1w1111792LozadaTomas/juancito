@@ -16,6 +16,7 @@ let ArrayDeTxtVacios = [];
 let ArrayDeTxtLlenos = [];
 
 let form = document.getElementById('form');
+let juancito;
 
 function validarForm() {
 	// Comprobar si los input están llenos
